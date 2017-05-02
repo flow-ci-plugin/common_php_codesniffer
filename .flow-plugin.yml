@@ -1,7 +1,9 @@
 name: php_codesniffer_plugin
 version: 0.0.1
 language: php
-description: PHP_CodeSniffer is an essential development tool that ensures your code remains clean and consistent.
+description: "
+  用来检查代码是否有违反一组预先设置好的编码标准的一个包，它是确保你的代码简洁一致的必不可少的开发工具，还可以帮助程序员减少一些语义错误
+"
 tags:
  - php
  - codesniffer
